@@ -9,6 +9,7 @@ int main() {
 		printf("btech first year");
 	}
 	printf(" i am studying btech first year");
+	printf("my hobbies are playing cricket");
         return 0;
 }
 
