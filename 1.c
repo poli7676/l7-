@@ -5,7 +5,9 @@ int main() {
         printf("hello world");
         printf("enter age");
         scanf("%d",&age);
+	if (age>18 && age<19){
+		printf("btech first year");
+	}
         return 0;
 }
-
 
