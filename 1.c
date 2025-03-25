@@ -10,6 +10,9 @@ int main() {
 	}
 	printf(" i am studying btech first year");
 	printf("my hobbies are playing cricket");
+	if(age>18){
+		printf("you can vote")
+	}
         return 0;
 }
 
