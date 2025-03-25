@@ -8,6 +8,7 @@ int main() {
 	if (age>18 && age<19){
 		printf("btech first year");
 	}
+	printf(" i am studying btech first year");
         return 0;
 }
 
